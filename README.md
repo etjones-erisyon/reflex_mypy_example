@@ -1,5 +1,5 @@
 # Reflex Mypy Example
-This is a minimal example to show how normal, by-the-docs Reflex code causes Mypy to fail.
+This is a minimal example to show how normal, by-the-docs Reflex code causes Mypy to fail. It's linked to [Issue 3374](https://github.com/reflex-dev/reflex/issues/3374) in the Reflex repo.
 
 ## How to reproduce
 1. Clone this repository 
